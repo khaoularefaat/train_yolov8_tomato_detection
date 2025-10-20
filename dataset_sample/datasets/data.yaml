@@ -1,0 +1,13 @@
+names:
+- Ripe Tomato
+- Unripe Tomato
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: tomato_detection-lrw6c
+  url: https://universe.roboflow.com/pfe-m9rrc/tomato_detection-lrw6c/dataset/2
+  version: 2
+  workspace: pfe-m9rrc
+test: ../test/images
+train: ../train/images
+val: ../valid/images
